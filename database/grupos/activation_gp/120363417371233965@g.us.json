@@ -1,0 +1,16 @@
+[
+  {
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem-vindo(a) ao grupo: #nomedogp#",
+        "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Seja bem-vindo(a) #numerodele# ao grupo: #nomedogp#",
+        "legendasaiu": "#numerodele# deixou o grupo: #nomedogp#"
+      }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│̇·̣̣̇·̣̇̇·̇ •🩸•୨୧COMANDOS DO TERMUX୨୧•🩸• ·̇·̣̇̇
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+
+✘⋟ permitir que o termux acesse seus arquivos 
+
+✘⋟ Apos pedir confirmação desses comandos digite y e depois de enter
+
+termux-setup-storage
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│̇·̣̣̇·̣̇̇·̇ •🩸•୨୧INSTALAÇAO TERMUX ୨୧•🩸• ·̇·̣̇̇
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+ pkg update
+
+ pkg upgrade
+
+ pkg install yarn
+
+ pkg install nodejs
+
+ pkg install git
+
+ pkg install ffmpeg -y
+
+✘⋟ AVISO: se é a primeira vez que voce ta instalando no termux pode ser que demore é normal varia de celular pra celular 
+
+✘⋟ OBS: se voce tiver instaçao de pacote no termux nao precisa so coloca o comando abaixo 
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│̇·̣̣̇·̣̇̇·̇ •🩸•୨୧PASTA DO BOT PARA TERMUX ୨୧•🩸• ·̇·̣̇̇
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+ cd /storage/emulated/0/Download/Base-Delta
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│̇·̣̣̇·̣̇̇·̇ •🩸•୨୧NUMERO DO WHATSAPP ୨୧•🩸• ·̇·̣̇̇
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+
+sh start.sh
+
+✘⋟ ou
+
+npm start
+
+✘⋟ ou
+
+node index.js
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│̇·̣̣̇·̣̇̇·̇ •🩸•୨୧BLACKOUT-API୨୧•🩸• ·̇·̣̇̇
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+✘⋟ Nossa api oficial entre no site se cadastra e garanta sua key
+
+https://api.blackout.toshiruz.site
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│̇·̣̣̇·̣̇̇·̇ •🩸•୨୧CRÉDITOS୨୧•🩸• ·̇·̣̇̇
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+✘‿✘BASE LIMPA DARK STARS QUE USAMOS CRIADORES✘‿✘
+
+✘⋟  [ARCANJA, BELPHEGOR & PEDROZZ MODS]
+
+
+✘‿✘BASE-DELTA✘‿✘
+
+✘⋟ TOSH BLACKOUT 
+
+✘⋟ EQUIPE BLACKOUT API
+
+
+✘‿✘NÚMERO DE SUPORTE E COMPRA DE RESQUES API✘‿✘
+
++55 11 96152-7811

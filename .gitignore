@@ -1,0 +1,52 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Session data
+auth_info_baileys/
+session/
+*.data.json
+
+# Database
+database/gruposAtivos/*
+!database/gruposAtivos/.gitkeep
+
+# Configuration files (sensitive data)
+dono/config.json
+dono/nescessario.json
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.cache
+
+# Media files (large files)
+arquivos/audios/*.mp3
+arquivos/videos/*.mp4
+!arquivos/audios/.gitkeep
+!arquivos/videos/.gitkeep

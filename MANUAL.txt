@@ -1,0 +1,150 @@
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│̇·̣̣̇·̣̇̇·̇ •🩸•୨୧MANUAL DE COMANDOS୨୧•🩸• ·̇·̣̇̇
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│¨✘‿✘MULT-MENUS¨✘‿✘
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+Esses comandos mostram menus com as opções de cada categoria.
+
+MENUDONO ✘⋟ Mostra o menu com comandos exclusivos do dono do bot.
+
+MENUADM ✘⋟ Mostra os comandos disponíveis apenas para administradores.
+
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│¨✘‿✘MENU-MEMBROS✘‿✘
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+Comandos que qualquer membro pode usar:
+
+PING ✘⋟ Mostra o tempo de resposta do bot.
+
+PERFIL ✘⋟ Exibe suas informações (nome, número, foto e status).
+
+INFOGRUPo ✘⋟ Mostra detalhes do grupo (nome, participantes, link, etc).
+
+SUPORTE-DONO ✘⋟ Exibe contato do criador para suporte.
+
+infodono / criador / donos ✘⋟ Mostra informações do(s) dono(s) do bot.
+
+TOTALCMD ✘⋟ Exibe quantos comandos existem no bot.
+
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│✘‿✘MENU-DOWNLOAD✘‿✘
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+Comandos para baixar mídias:
+
+PLAY [nome da música] ✘⋟ Baixa e envia o áudio da música.
+
+PLAYVIDEO [nome do vídeo] ✘⋟ Baixa e envia o vídeo do YouTube.
+
+GERARLINK [imagem] ✘⋟ Cria um link direto para a imagem enviada.
+
+UPLOADS [arquivo/mídia] ✘⋟ Faz upload de imagens, vídeos, figurinhas, mp3 e envia o link.
+
+METADINHA ✘⋟ Cria uma figurinha de “metadinha” (dividida entre 2 pessoas).
+
+PINTEREST [termo] ✘⋟ Pesquisa e envia imagens do Pinterest.
+
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│✘‿✘MENU-DONO✘‿✘
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+Somente o dono pode usar:
+
+FOTOMENU [img nova] ✘⋟ Troca a imagem do menu principal.
+
+FUNDOBV / fundosaiu [img] ✘⋟ Define imagens de boas-vindas e saída.
+
+AUDIO-MENU [1 on / 0 off] ✘⋟ Liga ou desliga o áudio no menu.
+
+VISUALIZAR-MSG [1 on / 0 off] ✘⋟ Ativa visualização de mensagens apagadas.
+
+AUTOREPO / autofigu [1 on / 0 off] ✘⋟ Ativa resposta automática ou figurinhas automáticas.
+
+ANTIPV / ANTIPV2 / ANTIPV3 [1 on / 0 off] ✘⋟ Bloqueia mensagens no PV (três níveis diferentes).
+
+NOVODONO1~6 [1 + número] ✘⋟ Adiciona novos donos.
+
+REMOVERDONO [1~6] ✘⋟ Remove um dos donos.
+
+ARQUIVARGP ✘⋟ Arquiva os dados do grupo.
+
+NUKE ✘⋟ Remove todos os membros (apenas dono).
+
+SERADM / SERMEMBRO ✘⋟ Promove ou rebaixa o dono como admin/membro.
+
+SAIRGP ✘⋟ Faz o bot sair do grupo atual.
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│✘‿✘MENU-ADMINS✘‿✘
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+Comandos restritos a administradores:
+
+BAN [@ ou msg] ✘⋟ Remove o usuário marcado.
+
+TOTAG / CITA [msg ou mídia] ✘⋟ Marca todos com uma mensagem ou mídia.
+
+MARCAR ✘⋟ Menciona todos os membros do grupo.
+
+PROMOVER / REBAIXAR [@ ou msg] ✘⋟ Gerencia cargos de admin.
+
+GRUPO [f/a] ✘⋟ Fecha ou abre o grupo.
+
+RESETLINK ✘⋟ Gera novo link do grupo.
+
+DESCRICAOGP [texto] ✘⋟ Muda a descrição do grupo.
+
+NOMEGP [texto] ✘⋟ Muda o nome do grupo.
+
+MODOBRINCADEIRA [1/0] ✘⋟ Liga ou desliga os comandos de brincadeiras.
+
+BEMVINDO / BEMVINDO2 [1/0] ✘⋟ Liga/desliga mensagens de boas-vindas.
+
+LEGENDASAIU / LEGENDASAIU2 [texto] ✘⋟ Define mensagens personalizadas para saída.
+
+ANTILINK soft on/off ✘⋟ Remove quem manda link (mensagem fica).
+
+ANTILINK hard on/off ✘⋟ Remove e apaga mensagem com lin
+
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│✘‿✘MENU-BRINKS✘‿✘
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+Comandos de diversão:
+
+NAZISTA, GAY, CORNO, FEIO, GADO, BÊBADO, GOSTOSA, GOSTOSO ✘⋟ Envia respostas engraçadas.
+
+TAPA, MATAR, BEIJO, CHUTE ✘⋟ Interações com outros usuários (use com @).
+
+DEATH [nome] ✘⋟ Mostra uma tela de “morte” estilizada.
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│✘‿✘MENU-FIGURINHAS✘‿✘
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+Gera várias figurinhas automáticas:
+
+FIGUEMOJI / FIGUMEMES / FIGUBEBE / FIGUCOREANA / FIGUCOREANA2 / FIGUANIME / FIGUANIMAIS / FIGUDESENHO / FIGURINHAS [quantidade]  ✘⋟ Envia pacotes de figurinhas do tipo escolhido.
+
+S [imagem ou vídeo curto]  ✘⋟ Cria uma figurinha personalizada.
+
+
+┌──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+│✘‿✘DICA GERAL✘‿✘
+╰──.·:*¨✘‿✘¨*:·.───.·:*¨✘‿✘¨*:·.─
+
+Sempre use prefixo antes do comando.
+Exemplo: !play Alan Walker - Faded
+
+Alguns comandos funcionam apenas em grupos.
+
+Os comandos de dono só funcionam para o número principal cadastrado
